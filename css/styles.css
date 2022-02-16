@@ -1,9 +1,17 @@
 .haslo {
   color: blue;
   background-color: yellow;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 29px;
 }
 
 .answer {
   color: yellow;
   background-color: blue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 29px;
 }
