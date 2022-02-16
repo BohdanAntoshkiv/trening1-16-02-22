@@ -1,3 +1,9 @@
 .haslo {
+  color: blue;
+  background-color: yellow;
+}
+
+.answer {
+  color: yellow;
   background-color: blue;
 }
